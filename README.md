@@ -32,3 +32,6 @@ git checkout -b dev-111
 
 #update 2
 
+git config --global user.name "Tony Zhu"
+git config --global user.email "tonyzhuca@hotmail.com"
+
